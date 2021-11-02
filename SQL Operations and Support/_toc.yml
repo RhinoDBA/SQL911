@@ -1,0 +1,122 @@
+- title: Chapter 1 Getting Started
+  file: /Chapter 1 Getting Started/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: STRT-Introduction
+      file: /Chapter 1 Getting Started/STRT-Introduction
+- title: Chapter 2 Using Extension Packs
+  file: /Chapter 2 Using Extension Packs/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: PACK-UsingExtensionPacks
+      file: /Chapter 2 Using Extension Packs/PACK-UsingExtensionPacks
+- title: Chapter 3 General Information Queries
+  file: /Chapter 3 General Information/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: GEN-GatherInformation
+      file: /Chapter 3 General Information/GEN-GatherInformation
+    - title: GEN-GetBPConsumers
+      file: /Chapter 3 General Information/GEN-GetBPConsumers
+    - title: GEN-GetBufferPool
+      file: /Chapter 3 General Information/GEN-GetBufferPool
+    - title: GEN-GetCPULast2Hours
+      file: /Chapter 3 General Information/GEN-GetCPULast2Hours
+    - title: GEN-GetDBGrowth
+      file: /Chapter 3 General Information/GEN-GetDBGrowth
+    - title: GEN-GetDBInfo
+      file: /Chapter 3 General Information/GEN-GetDBInfo
+    - title: GEN-GetDBTriggers
+      file: /Chapter 3 General Information/GEN-GetDBTriggers
+    - title: GEN-GetDiskSpace
+      file: /Chapter 3 General Information/GEN-GetDiskSpace
+    - title: GEN-GetFeatureUsage
+      file: /Chapter 3 General Information/GEN-GetFeatureUsage
+    - title: GEN-GetHAInfo
+      file: /Chapter 3 General Information/GEN-GetHAInfo
+    - title: GEN-GetInstanceInfo
+      file: /Chapter 3 General Information/GEN-GetInstanceInfo
+    - title: GEN-GetLinkedServers
+      file: /Chapter 3 General Information/GEN-GetLinkedServers
+    - title: GEN-GetLogonTriggers
+      file: /Chapter 3 General Information/GEN-GetLogonTriggers
+    - title: GEN-GetLowMemoryEvents
+      file: /Chapter 3 General Information/GEN-GetLowMemoryEvents
+    - title: GEN-GetLPIM
+      file: /Chapter 3 General Information/GEN-GetLPIM
+    - title: GEN-GetMAXDOP
+      file: /Chapter 3 General Information/GEN-GetMAXDOP
+    - title: GEN-GetMemoryAlloc
+      file: /Chapter 3 General Information/GEN-GetMemoryAlloc
+    - title: GEN-GetOSVersion
+      file: /Chapter 3 General Information/GEN-GetOSVersion
+    - title: GEN-GetProcNUMA
+      file: /Chapter 3 General Information/GEN-GetProcNUMA
+    - title: GEN-GetRecentBackkups
+      file: /Chapter 3 General Information/GEN-GetRecentBackkups
+    - title: GEN-GetResourceGov
+      file: /Chapter 3 General Information/GEN-GetResourceGov
+    - title: GEN-GetServerMemory
+      file: /Chapter 3 General Information/GEN-GetServerMemory
+    - title: GEN-GetSockets
+      file: /Chapter 3 General Information/GEN-GetSockets
+    - title: GEN-GetSystemConfig
+      file: /Chapter 3 General Information/GEN-GetSystemConfig
+    - title: GEN-GetUptime
+      file: /Chapter 3 General Information/GEN-GetUptime
+    - title: GEN-PreReqs
+      file: /Chapter 3 General Information/GEN-PreReqs
+- title: Chapter 4 Diagnostics
+  file: /Chapter 4 Diagnostics/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: DIAG-Database
+      file: /Chapter 4 Diagnostics/DIAG-Database
+    - title: DIAG-HighAvailability
+      file: /Chapter 4 Diagnostics/DIAG-HighAvailability
+    - title: DIAG-Indexes
+      file: /Chapter 4 Diagnostics/DIAG-Indexes
+    - title: DIAG-Instance
+      file: /Chapter 4 Diagnostics/DIAG-Instance
+    - title: DIAG-Memory
+      file: /Chapter 4 Diagnostics/DIAG-Memory
+    - title: DIAG-Server
+      file: /Chapter 4 Diagnostics/DIAG-Server
+    - title: DIAG-SQLAgent
+      file: /Chapter 4 Diagnostics/DIAG-SQLAgent
+    - title: DIAG-StoredProcedures
+      file: /Chapter 4 Diagnostics/DIAG-StoredProcedures
+- title: Chapter 5 Database Corruptions
+  file: /Chapter 5 Database Corruptions/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: CRPN-About-Corruptions
+      file: /Chapter 5 Database Corruptions/CRPN-About-Corruptions
+    - title: CRPN-Torn-Page
+      file: /Chapter 5 Database Corruptions/CRPN-Torn-Page
+- title: Chapter 6 Maintenance Routines
+  file: /Chapter 6 Maintenance Routines/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: MAINT-RoutineSQLMaintenance
+      file: /Chapter 6 Maintenance Routines/MAINT-RoutineSQLMaintenance
+- title: Chapter 7 Troubleshooting
+  file: /Chapter 7 Troubleshooting/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: TRBL-TShooting_LogFull
+      file: /Chapter 7 Troubleshooting/TRBL-TShooting_LogFull
+- title: Chapter 8 High Availability
+  file: /Chapter 8 High Availability/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: HA-GettingSTarted
+      file: /Chapter 8 High Availability/HA-GettingStarted
