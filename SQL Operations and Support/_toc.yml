@@ -5,6 +5,8 @@
   sections:
     - title: STRT-Introduction
       file: /Chapter 1 Getting Started/STRT-Introduction
+    - title: STRT-QueryExecutions
+      file: /Chapter 1 Getting Started/STRT-QueryExecutions
 - title: Chapter 2 Using Extension Packs
   file: /Chapter 2 Using Extension Packs/readme
   expand_sections: true
