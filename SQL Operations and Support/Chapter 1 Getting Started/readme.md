@@ -1,5 +1,5 @@
 <span style="display: block; text-align: center;">![CH1-Azure.png](./Media/CH1-Azure.png)</span>
-<span style="display: block; text-align: center;">![CH1-ADS.png](./Media/Ch1-ADS.png)</span>
+<span style="display: block; text-align: center;">![CH1-ADS.png](./Media/CH1-ADS.png)</span>
 
 
 # Welcome to Chapter 1: Getting Started with Azure Data Studio
