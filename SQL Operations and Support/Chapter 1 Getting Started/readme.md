@@ -11,7 +11,7 @@ Add more content here
 ## Notebooks in this Chapter
 
 - [STRT-Introduction](../Chapter&#32;1&#32;Getting&#32;Started/STRT-Introduction.ipynb)
-
+- [STRT-QueryExecutions](../Chapter&#32;1&#32;Getting&#32;Started/STRT-QueryExecutions.ipynb)
 
 
 &#32;
