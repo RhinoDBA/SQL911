@@ -1,6 +1,13 @@
-<span style="display: block; text-align: center;">![CH1-Azure.png](./Media/CH1-Azure.png)</span>
-<span style="display: block; text-align: center;">![CH1-ADS.png](./Media/CH1-ADS.png)</span>
+<!--<span style="display: block; text-align: center;">![CH1-Azure.png](./Media/CH1-Azure.png)</span> -->
+<!--<span style="display: block; text-align: center;">![CH1-ADS.png](./Media/CH1-ADS.png)</span> -->
 
+
+<p align="center">
+    <img src="./Media/CH1-Azure.png" />
+</p>
+<p align="center">
+    <img src="./Media/CH1-ADS.png" />
+</p>
 
 # Welcome to Chapter 1: Getting Started with Azure Data Studio
 
