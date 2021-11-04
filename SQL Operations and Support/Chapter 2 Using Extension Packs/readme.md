@@ -1,5 +1,11 @@
-<span style="display: block; text-align: center;">![CH2-Extensions](./Media/CH2-Extensions.jpg)</span>
-<span style="display: block; text-align: center;">![CH2-ADS.png](./Media/Ch2-ADS.png)</span>
+<p align="center">
+    <img src="./Media/CH2-Extensions.jpg">
+</p>
+
+<p align="center">
+    <img src="./Media/CH2-ADS.png" />
+</p>
+
 
 
 # Welcome to Chapter 2: Using Extension Packs
