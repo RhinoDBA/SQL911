@@ -60,7 +60,7 @@
     - title: GEN-GetProcNUMA
       file: /Chapter 3 General Information/GEN-GetProcNUMA
     - title: GEN-GetRecentBackkups
-      file: /Chapter 3 General Information/GEN-GetRecentBackkups
+      file: /Chapter 3 General Information/GEN-GetRecentBackups
     - title: GEN-GetResourceGov
       file: /Chapter 3 General Information/GEN-GetResourceGov
     - title: GEN-GetServerMemory
