@@ -8,3 +8,4 @@ Chapter 5 contains notebooks providing you with information about database corru
 - [CRPN-About-Corruptions](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-About-Corruptions.ipynb)
 - [CRPN-Torn-Page](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-Torn-Page.ipynb)
 - [CRPN-ConsistencyChecks](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-ConsistencyChecks.ipynb)
+- [CRPN-DBCC-CHECKDB](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-DBCC-CHECKDB.ipynb)

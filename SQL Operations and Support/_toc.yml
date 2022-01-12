@@ -105,6 +105,8 @@
       file: /Chapter 5 Database Corruptions/CRPN-Torn-Page
     - title: CRPN-ConsistencyChecks
       file: /Chapter 5 Database Corruptions/CRPN-ConsistencyChecks
+    - title: CRPN-DBCC-CHECKDB
+      file: /Chapter 5 Database Corruptions/CRPN-DBCC-CHECKDB
 - title: Chapter 6 Maintenance Routines
   file: /Chapter 6 Maintenance Routines/readme
   expand_sections: true
