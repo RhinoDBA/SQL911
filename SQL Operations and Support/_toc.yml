@@ -109,6 +109,8 @@
       file: /Chapter 5 Database Corruptions/CRPN-DBCC-CHECKDB
     - title: CRPN-Interpreting-CHECKDB-Output
       file: /Chapter 5 Database Corruptions/CRPN-Interpreting-CHECKDB-Output
+    - title: CRPN-Simple-Restore-Techniques
+      file: /Chapter 5 Database Corruptions/CRPN-Simple-Restore-Techniques
 - title: Chapter 6 Maintenance Routines
   file: /Chapter 6 Maintenance Routines/readme
   expand_sections: true
