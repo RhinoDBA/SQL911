@@ -11,3 +11,4 @@ Chapter 5 contains notebooks providing you with information about database corru
 - [CRPN-DBCC-CHECKDB](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-DBCC-CHECKDB.ipynb)
 - [CRPN-Interpreting-CHECKDB-Output](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-Interpreting-CHECKDB-Output.ipynb)
 - [CRPN-Simple-Restore-Techniques](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-Simple-Restore-Techniques.ipynb)
+- [CRPN-Simple-Repair-Techniques](../Chapter&#32;5&#32;Database&#32;Corruptions/CRPN-Simple-Repair-Techniques.ipynb)
