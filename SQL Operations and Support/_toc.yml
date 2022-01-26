@@ -113,6 +113,13 @@
       file: /Chapter 5 Database Corruptions/CRPN-Simple-Restore-Techniques
     - title: CRPN-Simple-Repair-Techniques
       file: /Chapter 5 Database Corruptions/CRPN-Simple-Repair-Techniques
+    - title: Chapter 5B Database Corruptions Advanced
+      file: /Chapter 5 Database Corruptions/Chapter 5B Database Corruptions Advanced
+      sections:
+        - title: CRPN-DBCC-CHECKDB-Internals
+          file: /Chapter 5 Database Corruptions/CRPN-DBCC-CHECKDB-Internals
+        - title: CRPN-Undocumented-DBCC-Commands
+          file: /Chapter 5 Database Corruptions/CRPN-Undocumented-DBCC-Commands
 - title: Chapter 6 Maintenance Routines
   file: /Chapter 6 Maintenance Routines/readme
   expand_sections: true
