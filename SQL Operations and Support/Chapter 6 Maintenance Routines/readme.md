@@ -6,3 +6,4 @@ Chapter 6 contains notebooks providing you with information about database maint
 
 - [MAINT-RoutineSQLMaintenance](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-RoutineSQLMaintenance.ipynb)
 - [MAINT-CapacityPlanning](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-CapacityPlanning.ipynb)
+- [MAINT-DailyTasks](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-DailyTasks.ipynb)
