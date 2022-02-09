@@ -16,6 +16,8 @@
       file: /Chapter 2 Using Extension Packs/PACK-UsingExtensionPacks
     - title: PACK-UsingWidgets
       file: /Chapter 2 Using Extension Packs/PACK-UsingWidgets
+    - title: PACK-FirstResponderKit
+      file: /Chapter 2 Using Extension Packs/PACK-FirstResponderKit
 - title: Chapter 3 General Information Queries
   file: /Chapter 3 General Information/readme
   expand_sections: true
