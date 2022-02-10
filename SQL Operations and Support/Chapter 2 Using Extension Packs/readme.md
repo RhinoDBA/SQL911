@@ -17,5 +17,8 @@ Chapter 2 contains notebooks providing you with helpful links to articles, video
 
 - [PACK-UsingExtensionPacks](../Chapter&#32;2&#32;Using&#32;Extension&#32;Packs/PACK-UsingExtensionPacks.ipynb)
 - [PACK-UsingWidgets](../Chapter&#32;2&#32;Using&#32;Extension&#32;Packs/PACK-UsingWidgets.ipynb)
+- [PACK-FirstResponderKit](../Chapter&#32;2&#32;Using&#32;Extension&#32;Packs/PACK-FirstResponderKit.ipynb)
+
+
 
 &#32;
