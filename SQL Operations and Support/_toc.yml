@@ -139,6 +139,10 @@
       file: /Chapter 6 Maintenance Routines/MAINT-Dedicated-Administrators-Connection
     - title: MAINT-Interpreting-Performance-Counters
       file: /Chapter 6 Maintenance Routines/MAINT-Interpreting-Performance-Counters
+    - title: MAINT-Database-Maintenance-Tips
+      file: /Chapter 6 Maintenance Routines/MAINT-Database-Maintenance-Tips
+    - title: MAINT-Working-With-TempDB
+      file: /Chapter 6 Maintenance Routines/MAINT-Working-With-TempDB
 - title: Chapter 7 Troubleshooting
   file: /Chapter 7 Troubleshooting/readme
   expand_sections: true

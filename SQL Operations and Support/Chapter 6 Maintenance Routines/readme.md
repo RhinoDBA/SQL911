@@ -9,3 +9,6 @@ Chapter 6 contains notebooks providing you with information about database maint
 - [MAINT-DailyTasks](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-DailyTasks.ipynb)
 - [MAINT-Ports-and-Protocols](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-Ports-and-Protocols.ipynb)
 - [MAINT-Dedicated-Administrators-Connection](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-Dedicated-Administrators-Connection.ipynb)
+- [MAINT-Interpreting-Performance-Counters](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-Interpreting-Performance-Counters.ipynb)
+- [MAINT-Database-Maintenance-Tips](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-Database-Maintenance-Tips.ipynb)
+- [MAINT-Working-With-TempDB](../Chapter&#32;6&#32;Maintenance&#32;Routines/MAINT-Working-With-TempDB.ipynb)
