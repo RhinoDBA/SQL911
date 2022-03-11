@@ -157,7 +157,9 @@
   sections: []
 - title: Chapter 9 Azure SQL DB
   file: /Chapter 9 Azure SQL DB
-  sections: []
+  sections:
+    - title: ASDB-What-Is-Azure-SQLDB
+      file: /ASDB-What-Is-Azure-SQLDB
 - title: Chapter 10 Azure SQL MI
   file: /Chapter 10 Azure SQL MI
   sections: []
