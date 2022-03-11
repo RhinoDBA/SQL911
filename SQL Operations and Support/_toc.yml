@@ -155,3 +155,12 @@
   expand_sections: true
   numbered: false
   sections: []
+- title: Chapter 9 Azure SQL DB
+  file: /Chapter 9 Azure SQL DB
+  sections: []
+- title: Chapter 10 Azure SQL MI
+  file: /Chapter 10 Azure SQL MI
+  sections: []
+- title: Chapter 11 SQL Server on Azure Virtual Machines
+  file: /Chapter 11 SQL Server on Azure Virtual Machines
+  sections: []
