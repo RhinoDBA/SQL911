@@ -150,6 +150,9 @@
   sections:
     - title: TRBL-TShooting_LogFull
       file: /Chapter 7 Troubleshooting/TRBL-TShooting_LogFull
+  expand_sections: true
+  numbered: false
+  sections:
 - title: Chapter 8 High Availability
   file: /Chapter 8 High Availability/readme
   expand_sections: true
