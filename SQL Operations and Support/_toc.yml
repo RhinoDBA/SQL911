@@ -150,3 +150,24 @@
   sections:
     - title: TRBL-TShooting_LogFull
       file: /Chapter 7 Troubleshooting/TRBL-TShooting_LogFull
+- title: Chapter 8 SQL Server on Azure VM
+  file: /Chapter 8 SQL Server on Azure VM/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: SSOA-Getting started with SQL Server on Azure VM
+      file: /Chapter 8 SQL Server on Azure VM/SSOA-Getting started with SQL Server on Azure VM
+- title: Chapter 9 Azure SQL Database
+  file: /Chapter 9 Azure SQL Database/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: ASDB-Getting Started with Azure SQL Database
+      file: /Chapter 9 Azure SQL Database/ASDB-Getting Started with Azure SQL Database
+- title: Chapter 10 Azure SQL Managed Instance
+  file: /Chapter 10 Azure SQL Managed Instance/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: ASMI-Getting Started with Azure SQL Managed Instance
+      file: /Chapter 10 Azure SQL Managed Instance/ASMI-Getting Started with Azure SQL Managed Instance
