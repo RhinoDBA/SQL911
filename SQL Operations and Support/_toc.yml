@@ -171,3 +171,10 @@
   sections:
     - title: ASMI-Getting Started with Azure SQL Managed Instance
       file: /Chapter 10 Azure SQL Managed Instance/ASMI-Getting Started with Azure SQL Managed Instance
+- title: Chapter 11 High Availbility
+  file: /Chapter 11 High Availbility/readme
+  expand_sections: true
+  numbered: false
+  sections:
+    - title: SSHA-Getting Started with High Availbility
+      file: /Chapter 11 High Availbility/SSHA-Getting Started with High Availbility
