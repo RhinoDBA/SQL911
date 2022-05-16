@@ -155,8 +155,8 @@
   expand_sections: true
   numbered: false
   sections:
-    - title: SSOA-Getting started with SQL Server on Azure VM
-      file: /Chapter 8 SQL Server on Azure VM/SSOA-Getting started with SQL Server on Azure VM
+    - title: SSOA-The History of Azure SQL
+      file: /Chapter 8 SQL Server on Azure VM/SSOA-The History of Azure SQL
 - title: Chapter 9 Azure SQL Database
   file: /Chapter 9 Azure SQL Database/readme
   expand_sections: true
@@ -171,10 +171,10 @@
   sections:
     - title: ASMI-Getting Started with Azure SQL Managed Instance
       file: /Chapter 10 Azure SQL Managed Instance/ASMI-Getting Started with Azure SQL Managed Instance
-- title: Chapter 11 High Availbility
-  file: /Chapter 11 High Availbility/readme
-  expand_sections: true
-  numbered: false
-  sections:
-    - title: SSHA-Getting Started with High Availbility
-      file: /Chapter 11 High Availbility/SSHA-Getting Started with High Availbility
+    - title: Chapter 11 High Availbility
+      file: /Chapter 11 High Availbility/readme
+      expand_sections: true
+      numbered: false
+      sections:
+        - title: SSHA-Getting Started with High Availbility
+          file: /Chapter 11 High Availbility/SSHA-Getting Started with High Availbility
