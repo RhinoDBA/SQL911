@@ -155,8 +155,8 @@
   expand_sections: true
   numbered: false
   sections:
-    - title: SSOA-The History of Azure SQL
-      file: /Chapter 8 SQL Server on Azure VM/SSOA-The History of Azure SQL
+    - title: SSOA-The-History-of-Azure-SQL
+      file: /Chapter 8 SQL Server on Azure VM/SSOA-The-History-of-Azure-SQL
 - title: Chapter 9 Azure SQL Database
   file: /Chapter 9 Azure SQL Database/readme
   expand_sections: true
