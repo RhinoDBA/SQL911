@@ -159,6 +159,8 @@
       file: /Chapter 8 SQL Server on Azure VM/SSOA-The-History-of-Azure-SQL
     - title: SSOA-Deploy-Azure-SQL-VM-From-Portal
       file: /Chapter 8 SQL Server on Azure VM/SSOA-Deploy-Azure-SQL-VM-From-Portal
+    - title: SSOA-Deploy-Azure-SQL-VM-From-PowerShell
+      file: /Chapter 8 SQL Server on Azure VM/SSOA-Deploy-Azure-SQL-VM-From-PowerShell
 - title: Chapter 9 Azure SQL Database
   file: /Chapter 9 Azure SQL Database/readme
   expand_sections: true
